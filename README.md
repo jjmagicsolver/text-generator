@@ -2,7 +2,7 @@
 
 Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code, or quickly train on a text using a pretrained model.
 
-text-generator is a Python 3 module on top of [Keras](https://github.com/jjmagicsolver/text-generator) for creating many cool features:
+text-generator is a Python 3 module on top of [jjmagicsolver](https://github.com/jjmagicsolver/text-generator) for creating many cool features:
 
 * A modern neural network architecture which utilizes new techniques as attention-weighting and skip-embedding to accelerate training and improve model quality.
 * Train on and generate text at either the character-level or word-level.
